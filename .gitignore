@@ -1,0 +1,19 @@
+# Environment variables - do not commit
+.env
+
+# Maven build output
+api/target/
+vision-api/target/
+
+# Node modules
+ui/node_modules/
+ui/dist/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
